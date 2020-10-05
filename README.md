@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# What is Academicons?
 
-You can use the [editor on GitHub](https://github.com/esperamita/experamita.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Academicons is a specialist icon font for academics. It contains icons for websites and organisations related to academia that are often missing from mainstream font packages. It can be used by itself, but its primary purpose is to be used as a supplementary package alongside a larger icon set. Go [here](http://jpswalsh.github.io/academicons) to view the full icon set along with instructions for their use.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Requesting new icons
 
-### Markdown
+New icons can be requested by creating an issue [here](https://github.com/jpswalsh/academicons/issues). Before submitting a request, please check that the following conditions are satisfied:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  * The organisation in question is already using a logo/icon of appropriate dimensions (roughly 1 × 1). If that doesn't exist, then there's really not much that can be done, and the request will have to be ignored until such time that a logo/icon can be provided.
 
-```markdown
-Syntax highlighted code block
+  * An icon of appropriate resolution can be provided or linked to. Ideally, the provided file will be a vector file (*e.g.* SVG, EPS, AI) or a PDF with the vector file embedded. These files are all very easy to work with, and result in the most faithful reproductions of the icon. Altenatively, high resolution raster images (*e.g.* JPEG, PNG, GIF) can work, but only if the resolution is high enough that the underlying shapes can be reproduced. Icons made from raster images take much longer to prepare, and require hand drawing each component and figuring out the exact typeface used for any letters. This process can be rather tedious, and I will only do this if there is significant demand for the icon. Favicon files can be useful in conjunction with larger logos that have non-ideal aspect ratios—where they can indicate which part of the logo to strip down to—but they are pretty much useless by themselves. The only time I have made an icon from a favicon was for arXiv, and that was only because: (i) It was heavily requested, and (ii) I was able to get feedback on the new icon from Paul Ginsparg, who made the original icon. You can still submit the request, but it will likely be ignored until someone else comes along and provides the file we need.
 
-# Header 1
-## Header 2
-### Header 3
+  * The icon can be reduced to monochrome. This is one of the basic requirements of a versatile icon, but it is often overlooked when icons are made by people who are not professional designers. Academia is full of unprofessional designers, and it is sometimes the case that a logo relies entirely on the use of different colours. In certain cases we can be creative (see the dblp logo), but more often than not it will be impossible to create a monochrome version of the icon. Again, feel free to make the request, but it will probably be ignored if an alternate logo cannot be found.
 
-- Bulleted
-- List
+# License
 
-1. Numbered
-2. List
+- The Academicons font is licensed under the SIL OFL 1.1:
+  - [http://scripts.sil.org/OFL](http://scripts.sil.org/OFL)
+- Academicons CSS, LESS, and SASS files are licensed under the MIT License:
+  - [http://opensource.org/licenses/mit-license.html](http://opensource.org/licenses/mit-license.html)
+- The Academicons documentation is licensed under the CC BY 3.0 License:
+  - [http://creativecommons.org/licenses/by/3.0/](http://creativecommons.org/licenses/by/3.0/)
 
-**Bold** and _Italic_ and `Code` text
+# Author
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/esperamita/experamita.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- GitHub: [https://github.com/jpswalsh](https://github.com/jpswalsh)
+- Web: [http://jpswalsh.com](http://jpswalsh.com)
