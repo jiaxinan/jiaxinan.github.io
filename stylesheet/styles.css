@@ -104,6 +104,14 @@ img {
   max-width:100%;
 }
 
+.responsive-img {
+    width: 60%;
+    height: auto;
+    margin: 0 auto;
+    display: block; /* This can help with centering and responsiveness */
+    max-width: 100%; /* Prevents the image from exceeding its container */
+}
+
 header {
   width:270px;
   float:left;
