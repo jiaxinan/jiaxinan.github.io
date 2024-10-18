@@ -277,3 +277,7 @@ footer {
     color:#444;
   }
 }
+
+.underline-heading {
+    text-decoration: underline;
+}
